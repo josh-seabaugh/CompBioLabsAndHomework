@@ -8,16 +8,16 @@ chip_bags <- 5
 guests <- 8
 
 # lab step #5: Each guest, on average, will eat 0.4 bags of chips
-eating_rate = 0.4
+eating_rate <- 0.4
 
 # lab step #7: calculating the expected amount of leftover chips
 chip_bags - ((guests + 1) * eating_rate)
 
 # lab step #8: assigning vectors to the movie rankings of each person
-self = c(7, 9, 8, 1, 2, 3, 4, 5, 6)
-Penny = c(5, 9, 8, 3, 1, 2, 4, 7, 6)
-Lenny = c(6, 5, 4, 9, 8, 7, 3, 2, 1)
-Stewie = c(1, 9, 5, 6, 8, 7, 2, 3, 4)
+self <- c(7, 9, 8, 1, 2, 3, 4, 5, 6)
+Penny <- c(5, 9, 8, 3, 1, 2, 4, 7, 6)
+Lenny <- c(6, 5, 4, 9, 8, 7, 3, 2, 1)
+Stewie <- c(1, 9, 5, 6, 8, 7, 2, 3, 4)
 
 # lab step #9: accessing values for the rankings of Episode IV
 PennyIV <- Penny[4]
