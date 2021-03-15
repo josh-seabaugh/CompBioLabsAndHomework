@@ -17,4 +17,5 @@
 > **Link to script:** [Script](https://github.com/josh-seabaugh/CompBioLabsAndHomework/blob/main/Labs/Lab08/Seabaugh_Lab8.R)
 >
 > **Example output plot:** 
+>
 > ![Example plot](https://github.com/josh-seabaugh/CompBioLabsAndHomework/blob/main/Labs/Lab08/ExamplePlot.png)
