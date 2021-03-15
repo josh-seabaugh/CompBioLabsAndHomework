@@ -1,4 +1,4 @@
-﻿
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -16,4 +16,4 @@
 > 
 > **Link to script:** [Script](https://github.com/josh-seabaugh/CompBioLabsAndHomework/blob/main/Labs/Lab08/Seabaugh_Lab8.R)
 > **Example output plot:** 
-> ![Example plot](/Users/joshseabaugh/Documents/EBIO_5420_CompBio/CompBioLabsAndHomework/Labs/Lab08/ExamplePlot.png)
+> ![Example plot](https://github.com/josh-seabaugh/CompBioLabsAndHomework/blob/main/Labs/Lab08/ExamplePlot.png)
