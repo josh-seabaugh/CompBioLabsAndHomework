@@ -11,7 +11,7 @@ setwd("~/Documents/EBIO_5420_CompBio/CompBioLabsAndHomework/Labs/Lab07")
 # Problem #1: write a function that computes the area of a triangle
 # Define the function:
 triangleArea <- function(base, height) {
-  area = 0.5 * base * height # calculate the area
+  area <- 0.5 * base * height # calculate the area
   return(area)
 }
 
@@ -37,6 +37,8 @@ myAbs(c(1.1, 2, 0, -4.3, 9, -12))
 
 # Problem #3: Fibonacci function
 # Define the function:
+# note: the function is.wholenumber() checks to see if a value is an integer
+# (not an integer type, but an actual integer)
 fibonacci <- function(n, start) {
   fibSeq <- start # initialize the first value to 1
   fibSeq[2] <- 1 # initialize the second value to 1
