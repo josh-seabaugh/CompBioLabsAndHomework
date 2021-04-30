@@ -1,4 +1,4 @@
-﻿
+
 
 
 
@@ -40,7 +40,7 @@ Finally, I performed a linear regression on the effects of both management type 
 
 ### Results and Conclusions
 
-The results of the plot showing multiple predator occupancy across different sites revealed some considerable differences to the similar made by the original authors for just lion occupancy. This was to be expected since I was combining two different data categories (lions and lion competitors). This plot was a good visualization as to how predicted predator occupancy was distributed throughout the complex and is shown below.
+The results of the plot showing multiple predator occupancy across different sites revealed some considerable differences to the similar plot made by the original authors for just lion occupancy. This was to be expected since I was combining two different data categories (lions and lion competitors). This plot was a good visualization as to how predicted predator occupancy was distributed throughout the complex and is shown below.
 ****Plot of Multiple Predator Occupancy Across Sites:****
 
 ![Site Occupancy Plot](https://github.com/josh-seabaugh/CompBioLabsAndHomework/blob/main/Project/Site_Occupancy_Plot.png)
@@ -52,13 +52,13 @@ The results of the management type occupancy plot showed that the likelihood of 
 
 Several factors positively and significantly affected the likelihood of an area being inhabited by multiple large predator species, including average precipitation of a site (p < 0.05), river area of a site (p < 0.001), road area of a site (p < 0.001) and prey availability in a site (specifically, the log transform of the number of prey per 100 trap nights, p = 0). Of these, prey availability had the largest effect. Both human occupancy and livestock occupancy showed no significant effects on multiple predator occupancy, despite livestock occupancy having a significant and positive effect on lion competitors in the original study. Of all the factors, only percentage of savanna coverage showed a significant and negative effect (p < 0.01) on multiple predator occupancy.
 
-Also, hunting concessions were shown to be significantly more likely to host multiple predator species than national parks (p < 0.01), which supports the previous figure. Finally, using the linear regression with both management type and prey availability on multiple predator occupancy and the predictor function, the plot (figure shown below) indicates that multiple predator occupancy likelihood drastically increases with increased prey availability. In addition, the plot shows that hunting concessions will typically be more likely than national parks to host multiple large predators.
+Also, hunting concessions were shown to be significantly more likely to host multiple predator species than national parks (p < 0.01), which supports the previous figure. Finally, using the linear regression with both management type and prey availability on multiple predator occupancy and the predictor function, the resulting plot (figure shown below) indicates that multiple predator occupancy likelihood drastically increases with increased prey availability. In addition, the plot shows that hunting concessions will typically be more likely than national parks to host multiple large predators.
 
 ****Plot of how Multiple Predator Occupancy Changes with Prey Availability and Management Type:****
 
 ![Site Occupancy Plot](https://github.com/josh-seabaugh/CompBioLabsAndHomework/blob/main/Project/Predator_Occupancy_ManagementType_PreyAvailability_Plot.png)
 
-These results suggest that not only are hunting concessions favorable management types when it comes to hosting multiple predator species, but habitats that have higher average precipitation, more river and road access, less savanna coverage and more prey are more likely to contain at least two of the three predator species in this study. Most importantly, however, sites that contain abundant prey are far more likely to also contain multiple predator species and hunting concessions are predicted to do a little better than national parks in this regard.
+These results suggest that not only are hunting concessions favorable management types when it comes to hosting multiple predator species, but habitats that have higher average precipitation, more river and road access, less savanna coverage and more prey are more likely to contain at least two of the three predator species in this study (lions, leopards and hyenas). Most importantly, however, sites that contain abundant prey are far more likely to also contain multiple predator species and hunting concessions are predicted to do a little better than national parks in this regard.
 
 
 
